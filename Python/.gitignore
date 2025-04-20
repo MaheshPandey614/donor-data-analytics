@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Unit test / coverage reports (keep if you're testing; safe to keep for reuse)
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+
+# VS Code & JetBrains IDE (if you're using them)
+.idea/
+.vscode/
+
+# Export artifacts
+*.html
+*.pdf
+
+# Ignore WIP notebooks
+AnalysisWIP.ipynb
+
