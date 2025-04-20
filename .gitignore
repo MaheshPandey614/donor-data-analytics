@@ -36,7 +36,6 @@ coverage.xml
 .vscode/
 
 # Export artifacts
-*.html
 *.pdf
 
 # Ignore WIP notebooks
@@ -45,6 +44,5 @@ AnalysisWIP.pynb
 /.ipynb_checkpoints
 DataGeneration.ipynb
 engagementoutcome.ipynb
-
 Python/AnalysisWIP.ipynb
 Python/DonorDataAnalyis-Copy1.ipynb
