@@ -49,7 +49,7 @@ The project uses a structured relational dataset composed of six key tables:
 
 ## 📎 View the Full Report
 
-➡️ [HTML Report](./DonorDataAnalysis_Final.html)  
+➡️
 
 ## 🧠 Acknowledgements
 
