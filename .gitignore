@@ -42,7 +42,6 @@ coverage.xml
 # Ignore WIP notebooks
 AnalysisWIP.ipynb
 AnalysisWIP.pynb
-DonorDataAnalysis_Final.html
 /.ipynb_checkpoints
 DataGeneration.ipynb
 engagementoutcome.ipynb
