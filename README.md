@@ -49,7 +49,7 @@ The project uses a structured relational dataset composed of six key tables:
 
 ## 📎 View the Full Report
 
-➡️
+➡️[View the full donor engagement analysis](https://maheshpandey614.github.io/donor-data-analytics/)
 
 ## 🧠 Acknowledgements
 
