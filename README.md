@@ -8,7 +8,7 @@
 
 ## 🧭 Overview
 
-This project explores how nonprofits can use data analytics to improve donor engagement, retention, and campaign effectiveness. Using a synthetically generated but realistic dataset, we demonstrate how to apply behavioral segmentation, performance evaluation, and impact alignment to inform data-driven decision-making in the nonprofit sector.
+This project explores how nonprofits can use data analytics to improve donor engagement, retention, and campaign effectiveness. Using a synthetically generated but realistic dataset, this project demonstrates how to apply behavioral segmentation, performance evaluation, and impact alignment to inform data-driven decision-making in the nonprofit sector.
 
 ## 📌 Key Objectives
 
@@ -16,7 +16,7 @@ This project explores how nonprofits can use data analytics to improve donor eng
 - Apply custom RFM segmentation to identify and profile distinct donor groups.
 - Analyse engagement history to uncover communication effectiveness by segment.
 - Evaluate fundraising campaign performance and link it to mission-driven impact.
-- Recommend actionable strategies to enhance donor retention and campaign ROI.
+- Recommend actionable strategies to enhance donor retention.
 
 ## 🗂️ Dataset Structure
 
