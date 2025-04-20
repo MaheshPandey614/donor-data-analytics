@@ -38,7 +38,7 @@ coverage.xml
 # Export artifacts
 *.pdf
 
-# Ignore WIP notebooks
+#Ignore WIP notebooks
 AnalysisWIP.ipynb
 AnalysisWIP.pynb
 /.ipynb_checkpoints
